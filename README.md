@@ -16,5 +16,5 @@
     ```
     xD
     ```
-![alt text](static/example.png)
+![alt text](https://github.com/semyonmynko/Seasonality/blob/main/static/css/example.png)
 
